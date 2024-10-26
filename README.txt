@@ -1,8 +1,8 @@
 ///////////////////ADMIN Login Credentials///////////////////////////
 
 URL: http://localhost/library_management/admin
-Username: admin@library.com
-Password: Admin@123#$
+Username: 2110067@ritindia.edu
+Password: 12345
 
 
 ////////////////////////END/////////////////////////////////////////
